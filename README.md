@@ -12,4 +12,6 @@
 但人毕竟不是蚂蚁、蜜蜂，没那么听从指挥，说死就死，所以就要狠斗私字一闪念，要有宗教般的理念信仰和神一样的领袖来降低反抗的意愿，心甘情愿地承担消耗的任务。
 
 ### 墙外优质网站
-- 翻墙后，好东西大家一起分享 (https://10beasts.net/recommend/)
+- [翻墙后，好东西大家一起分享](https://10beasts.net/recommend/)
+
+<meta name="google-site-verification" content="IAAvsE2LHgjE6xNJcoT8WKSAp2Ve2kqG6oLB8a73yJ8" />
